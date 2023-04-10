@@ -102,34 +102,7 @@ div h3 {
 }
 #blog div a:hover {
     color:orangered
-}
 
 #services {
-    background-color: whitesmoke;
-    text-align: center;
-    padding: 10px;
-    top: 30px;
-}
-#services h2 {
-    font-size: 44px;
-    margin-top: 5%;
-}
-#services li {
-    background-color: white;
-    font-size: 22px;
-    width: 10%;
-    height:auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 15px;
-    padding-right: 15px;
-    justify-content: center;
-    margin: 1%;
-    display: inline-block;
-}
-#services li:first-child {
-    background-color: orangered;
-}
-#services li:hover {
-    box-shadow: rgba(0,0,0,.5);
+    background-color
 }
